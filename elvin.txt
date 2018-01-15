@@ -1,1 +1,12 @@
-Just a test
+github gitbash
+Clone REPO
+1. cd /c       cd xampp\htdocs 
+2. c:\xampp\htdocs
+3. git clone paste in URL
+
+Update REPO
+cd name of repo folder
+git add .
+git commit -m "Message"
+git push 
+git pull
